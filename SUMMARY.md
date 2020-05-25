@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Get Started](README.md)
+* [KoreanAwesome-Font](README.md)
 
