@@ -7,7 +7,7 @@ Modern, Simple, Open Source Icons Collection.
 Coming Soon.
 
 {% hint style="success" %}
-[💵 Sponsor My University Fee](https://github.com/sponsors/1998code)
+[💵 Sponsor](https://github.com/sponsors/1998code)
 {% endhint %}
 
 
